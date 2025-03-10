@@ -5,4 +5,5 @@
 # Model used : efficientnet-b0 with imagenet weights
 # 2nd approach model trained from scratch making own architecture
 # Both techniques includes image agumentation techniques and tuning of hyperparamaters
+# Added Last.pth that contains pretrianed weights for transfer learning providing 86 % test accuracy
 
