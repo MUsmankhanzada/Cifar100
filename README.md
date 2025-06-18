@@ -20,6 +20,7 @@ This project focuses on image classification using the **CIFAR-100** dataset, wh
 ### 2. **Custom Model (Trained from Scratch)**
 - Designed and trained a custom convolutional neural network architecture.
 - Implemented data augmentation and hyperparameter tuning to improve performance.
+- Achieved 71.2 % accuracy surpassing the 67 % benchmark.
 
 ## Dataset
 - **Name:** [CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html)
