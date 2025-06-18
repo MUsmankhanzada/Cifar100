@@ -15,7 +15,7 @@ This project focuses on image classification using the **CIFAR-100** dataset, wh
   - Hyperparameter optimization.
 - **Results:**
   - Achieved **86% test accuracy**.
-  - Final model weights saved as `last.pth`.
+  - Final model weights saved as [`last.pth`](last.pth).
 
 ### 2. **Custom Model (Trained from Scratch)**
 - Designed and trained a custom convolutional neural network architecture.
