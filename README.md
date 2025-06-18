@@ -37,6 +37,7 @@ This project focuses on image classification using the **CIFAR-100** dataset, wh
 
 ## Future Work
 - Experiment with deeper EfficientNet variants.
+- Improve the SOA accuracy.
 - Explore ensemble methods for improved accuracy.
 - Deploy the trained model as a web or mobile application.
 
