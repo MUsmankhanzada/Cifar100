@@ -9,6 +9,7 @@ This project focuses on image classification using the **CIFAR-100** dataset, wh
 
 ### 1. **Transfer Learning**
 - **Model Used:** [EfficientNet-B0](https://arxiv.org/abs/1905.11946) pre-trained on ImageNet.
+- **Model Selection:** Experimented with various architectures such as ResNet and multiple EfficientNet variants. EfficientNet-B0 was ultimately chosen due to resource constraints, balancing performance and computational efficiency.
 - **Techniques Applied:**
   - Fine-tuning on the CIFAR-100 dataset.
   - Extensive data augmentation.
@@ -19,6 +20,7 @@ This project focuses on image classification using the **CIFAR-100** dataset, wh
 
 ### 2. **Custom Model (Trained from Scratch)**
 - Designed and trained a custom convolutional neural network architecture.
+- Experimented with different hyperparameters (e.g., learning rate, batch size, optimizer, number of layers) to optimize performance.
 - Implemented data augmentation and hyperparameter tuning to improve performance.
 - Achieved 71.2 % accuracy surpassing the 67 % benchmark.
 
